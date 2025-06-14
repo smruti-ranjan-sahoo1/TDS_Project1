@@ -10,4 +10,4 @@ tqdm
 markdown
 python-multipart
 setuptools
-Flask==2.3.3
+
